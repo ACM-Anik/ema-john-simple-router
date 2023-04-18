@@ -1,0 +1,13 @@
+.btn-clear-cart{
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    background-color: #FF3030;
+    color: white;
+    border-radius: 4PX;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
